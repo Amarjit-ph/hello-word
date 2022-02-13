@@ -1,6 +1,15 @@
 # HELLO WORLD
 Program to print my name in brain fuck
 
+## Destroy your brain challenge !
+1. Clone this repository and create a file name according to the serial number<br/>
+EXAMPLE : `2-Yourname.bf`<br/>
+```
+----[---->+<]>++.[--->+<]>++.------------.--[--->+<]>---.--------.-.+++++++++++.[---->+<]>+++.[-->+++++<]>.--[--->++++<]>.---.++++.+++++++++.---.------.+.---------.++++++++++++.
+```
+2. Send your Request
+3. You have completed `Destroy your brain`.
+
 ## BRAIN FUCK
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller
 
